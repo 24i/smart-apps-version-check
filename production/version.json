@@ -1,8 +1,8 @@
 {
     "android": {
-        "latest": "2.8.0",
-        "minimal": "2.8.0",
-        "forced": "2.7.1",
+        "latest": "2.13.0",
+        "minimal": "2.10.0",
+        "forced": "2.10.0",
         "blacklist": ["1.1.9"],
         "url": "market://details?id=com.whatsapp"
     },
@@ -21,9 +21,9 @@
         "url": "amazon url"
     },
     "ios": {
-        "latest": "2.3.0",
-        "minimal": "2.16.0",
-        "forced": "2.15.0",
+        "latest": "2.13.0",
+        "minimal": "2.10.0",
+        "forced": "2.10.0",
         "blacklist": ["1.1.9"],
         "url": "itms-apps://itunes.apple.com/app/apple-store/id375380948?mt=8"
     },
