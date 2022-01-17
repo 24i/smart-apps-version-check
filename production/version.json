@@ -2,7 +2,7 @@
     "android": {
         "latest": "2.21.0",
         "minimal": "2.30.0",
-        "forced": "2.30.0",
+        "forced": "2.15.0",
         "blacklist": ["1.1.9"],
         "url": "market://details?id=com.whatsapp"
     },
