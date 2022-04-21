@@ -22,7 +22,7 @@
     },
     "ios": {
         "latest": "2.21.0",
-        "minimal": "2.27.0",
+        "minimal": "2.31.0",
         "forced": "2.16.0",
         "blacklist": ["1.1.9"],
         "url": "itms-apps://itunes.apple.com/app/apple-store/id375380948?mt=8"
